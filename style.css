@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(252, 248, 238);
+    font-family: 'Inter';
+}
+.accueil {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+h5 {
+    font-weight: 700;
+    padding: 20px 0px 20px 30px;
+    margin: 0;
+}    
+.filet0 {
+    width: 80%;
+    border-top-style: solid;
+    border-top-width: 1px;
+    
+}
+.central {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.TextePres {
+    width: 35%;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    margin-left: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(23, 132, 38);
+    margin: 0;
+
+}
+
+h2 {
+    color: rgb(23, 132, 38);
+    margin: 0;
+    font-weight: 400;
+    font-size: 34px;
+}
+
+.texteAcceuil {
+    font-size: 14px;
+    color: rgb(23, 132, 38);
+    margin-top: 5px;
+    padding-Right: 60px;
+}
+
+.photo {
+    width: 30%;
+    height:30%;
+    padding-right: 150px;
+}
+
+.portfolio {
+    font-size: 95px;
+    font-weight: 900;
+    color: rgb(23, 132, 38);
+    writing-mode: vertical-rl;
+}
+nav {
+    margin: 50px 0px 50px 0px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(23, 132, 38);
+    font-family: 'Inter';
+    font-size: 14px;
+}
+
+.liste {
+    display: flex;
+    gap: 50px;
+}
+
+.section1 {
+    list-style: none;
+}
+.section2 {
+    list-style: none;
+}
+.section3 {
+    list-style: none;
+}
+
+
+/* page portfolio */
+
+.pagePortfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.filet1 {
+    width: 100%;
+    border-top-style: solid;
+    border-top-width: 1px;
+    margin-top: 50px;
+}
+
+.work1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 140px;
+}
+
+.photo1 {
+    width: 100%;
+}
+
+.image2-3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo1-2 {
+    width: 49%;
+}
+.photo1-3 {
+    width: 50%;
+}
+
+.chiffre1 {
+    font-size: 150px;
+    color: rgb(23, 132, 38);
+    font-weight: 200;
+    margin: 0px 0px;
+}
+
+.titre1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+
+}
+
+.texte1 {
+    font-size: 12px;
+    padding: 0px 500px 0px 0px;
+}
+/* page portfolio */
+
+
+.work2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.chiffre2 {
+    font-size: 150px;
+    color: rgb(23, 132, 38);
+    font-weight: 200;
+    margin: 0px 10px 0px 0px;
+    letter-spacing: -10px;
+
+}
+.textWork2 {
+    padding: 0px 500px 0px 50px;
+}
+
+.titre2 {
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+}
+
+.texte2 {
+    font-size: 12px;
+
+}
+
